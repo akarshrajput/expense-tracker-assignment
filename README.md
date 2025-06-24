@@ -27,6 +27,7 @@ cd expense-tracker-assignment
 - ✅ Category-wise pie chart & month-wise bar chart
 - ✅ Clean, responsive UI with ShadCN components
 - ✅ API routes with MongoDB integration
+- ✅ Dark mode using next themes
 
 ---
 
