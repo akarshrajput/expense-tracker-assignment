@@ -4,6 +4,22 @@ A full-stack Expense Tracker built with **Next.js**, **MongoDB**, **ShadCN UI**,
 
 ---
 
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/akarshrajput/expense-tracker-assignment.git
+cd expense-tracker-assignment
+```
+<img width="1710" alt="Screenshot 2025-06-25 at 1 53 10 AM" src="https://github.com/user-attachments/assets/fac1ddbe-70c9-4ec4-83cd-6b2eaee37a0b" />
+<img width="1710" alt="Screenshot 2025-06-25 at 1 53 03 AM" src="https://github.com/user-attachments/assets/0d39accc-abd2-4ae6-947c-466a810ddcfb" />
+<img width="1710" alt="Screenshot 2025-06-25 at 1 52 55 AM" src="https://github.com/user-attachments/assets/e62b822d-66e9-4682-8439-ec0ae263e049" />
+<img width="1710" alt="Screenshot 2025-06-25 at 1 52 49 AM" src="https://github.com/user-attachments/assets/294fec33-8acc-4d14-a354-3ed1b2c7e103" />
+<img width="1710" alt="Screenshot 2025-06-25 at 1 52 42 AM" src="https://github.com/user-attachments/assets/8afe822c-8366-45a5-b2df-e17a948c4aaa" />
+
+---
+
 ## 🚀 Features
 
 - ✅ User Authentication with NextAuth.js
@@ -24,13 +40,4 @@ A full-stack Expense Tracker built with **Next.js**, **MongoDB**, **ShadCN UI**,
 
 ---
 
-## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/akarshrajput/expense-tracker-assignment.git
-cd expense-tracker-assignment
-```
-
----
