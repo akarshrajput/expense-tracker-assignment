@@ -24,7 +24,7 @@ A full-stack Expense Tracker built with **Next.js**, **MongoDB**, **ShadCN UI**,
 
 ---
 
-## 🛠️ Getting Started
+## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -32,3 +32,5 @@ A full-stack Expense Tracker built with **Next.js**, **MongoDB**, **ShadCN UI**,
 git clone https://github.com/akarshrajput/expense-tracker-assignment.git
 cd expense-tracker-assignment
 ```
+
+---
